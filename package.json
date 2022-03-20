@@ -69,7 +69,7 @@
   },
   "devDependencies": {
     "@babel/cli": "^7.17.6",
-    "@babel/core": "^7.17.5",
+    "@babel/core": "^7.17.8",
     "@babel/node": "^7.16.8",
     "@babel/plugin-proposal-class-properties": "^7.16.7",
     "@babel/plugin-proposal-object-rest-spread": "^7.17.3",
@@ -78,7 +78,7 @@
     "@babel/plugin-transform-runtime": "^7.17.0",
     "@babel/preset-env": "^7.16.11",
     "@babel/preset-react": "^7.16.7",
-    "@babel/register": "^7.17.0",
+    "@babel/register": "^7.17.7",
     "@emotion/react": "^11.8.2",
     "@emotion/styled": "^11.8.1",
     "@eps1lon/enzyme-adapter-react-17": "^0.1.0",
@@ -188,7 +188,7 @@
     "yarn-deduplicate": "^3.1.0"
   },
   "resolutions": {
-    "**/@babel/core": "^7.17.5",
+    "**/@babel/core": "^7.17.8",
     "**/@babel/code-frame": "^7.16.7",
     "**/@babel/plugin-proposal-class-properties": "^7.16.7",
     "**/@babel/plugin-proposal-object-rest-spread": "^7.17.3",
@@ -200,7 +200,7 @@
     "**/@babel/preset-env": "^7.16.11",
     "**/@babel/preset-react": "^7.16.7",
     "**/@babel/preset-typescript": "^7.16.7",
-    "**/@babel/runtime": "^7.17.2",
+    "**/@babel/runtime": "^7.17.8",
     "**/@types/react": "^17.0.40",
     "**/@types/react-dom": "^17.0.13",
     "**/cross-fetch": "^3.1.5",
